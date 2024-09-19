@@ -186,12 +186,15 @@
             </div>
         </div>
     </section>
-
+<h1>Site Informativo: "Educação para a Paz no Trânsito 2024"</h1>
+    <p>Eu, aluna <strong>Bianca Nascimento</strong>, criei este site com o objetivo de promover o <strong>"trânsito seguro"</strong>. Esse projeto está alinhado com a Agenda 2030 e os Objetivos de Desenvolvimento Sustentável (ODS), especialmente o ODS 11, que visa cidades e comunidades sustentáveis.</p>
+    <p>A meta 11.2 procura garantir, até 2030, o acesso a sistemas de transporte seguros, acessíveis e sustentáveis, melhorando a segurança rodoviária.</p>
+    <p>Este trabalho foi desenvolvido na aula de Pensamento Computacional, sob orientação da professora <strong>Patrícia Ferro</strong>.</p>
     <!-- Contato -->
     <section id="contact" class="section">
         <h2>Contato</h2>
         <p>Entre em contato conosco para mais informações sobre como promover a paz no trânsito:</p>
-        <p>Email: <a href="mailto:info@paznotransito.com.br">info@paznotransito.com.br</a></p>
+        <p>Email: <a href="mailto:santos.nascimento.bianca@escola.pr.gov.br">santos.nascimento.bianca@escola.pr.gov.br</a></p>
     </section>
 </div>
 
